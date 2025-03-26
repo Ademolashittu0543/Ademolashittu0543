@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Ademolashittu0543/Ademolashittu0543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Machine Learning Engineer | 🏗 Civil Engineer | 📊 Data Enthusiast
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 Civil Engineer turned Machine Learning Enthusiast
+🤖 Currently learning Scikit-learn, TensorFlow, and Deep Learning
+💡 Exploring how ML can be applied in Structural Engineering
+🔍 Open to collaborations on ML projects and learning together
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 What I’m Working On
+✅ Learning Supervised & Unsupervised Learning
+✅ Building ML projects & deploying models
+✅ Sharing weekly progress on LinkedIn
