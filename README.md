@@ -14,7 +14,7 @@
 ✅ Sharing weekly progress on LinkedIn
 
 > **📂 My Projects  
-💡 **[House Price Prediction](#)** - Predicts house prices using regression models.  
+💡 **[House Price Prediction](https://github.com/Ademolashittu0543/House_price_-prediction)** - Predicts house prices using regression models.  
 > **📌 More projects coming soon!**  
 
 🔗 Connect With Me  
