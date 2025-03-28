@@ -27,6 +27,15 @@
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/shittu-ademola-842126291/)
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/Ademolashittu0543) 
 
-📊 GitHub Stats  
+## 📊 GitHub Stats
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ademolashittu0543&show_icons=true&theme=dark)  
 
+
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+</p>
