@@ -22,8 +22,10 @@
 
 > 📌 More projects coming soon!
 
-🔗 Connect With Me  
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/shittu-ademola-842126291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaXM3Sh5nR3us%2FiejJB8QkQ%3D%3D))  
+## 🌐 Socials
+
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/shittu-ademola-842126291/)
+[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/Ademolashittu0543) 
 
 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ademolashittu0543&show_icons=true&theme=dark)  
