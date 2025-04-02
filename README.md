@@ -12,7 +12,7 @@
 
 > 📌 What I’m Working On
 
-✅ Learning Supervised & Unsupervised Learning
+✅ Learning ML,DL and AI
 ✅ Building ML projects & deploying models
 ✅ Sharing weekly progress on LinkedIn
 
