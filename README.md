@@ -19,7 +19,7 @@
 > 📂 My Projects
  
 💡 **[House Price Prediction](https://github.com/Ademolashittu0543/House_price_-prediction)** - Predicts house prices using regression models.  
-💡 **[Breast_Cancer_prediction](https://github.com/Ademolashittu0543/House_price_-prediction)** - Predicts house prices using regression models.
+💡 **[Breast_Cancer_prediction](https://github.com/Ademolashittu0543/Breast_Cancer_prediction)** - Breast cancer prediction based on patient diagnostic data.
 
 > 📌 More projects coming soon!
 
