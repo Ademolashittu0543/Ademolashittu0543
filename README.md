@@ -16,7 +16,9 @@
 > 📌 What I’m Working On
 
 ✅ Learning ML,DL and AI
+
 ✅ Building ML projects & deploying models
+
 ✅ Sharing weekly progress on LinkedIn
 
 > 📂 My Projects
