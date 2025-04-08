@@ -6,8 +6,11 @@
 > 🚀 About Me
 
 🎓 Civil Engineer turned Machine Learning Enthusiast
-🤖 Currently learning Scikit-learn, TensorFlow, and Deep Learning
+
+🤖 Currently learning Machine Learning, Deep leaarning and AI
+
 💡 Exploring how ML can be applied in Structural Engineering
+
 🔍 Open to collaborations on ML projects and learning together
 
 > 📌 What I’m Working On
