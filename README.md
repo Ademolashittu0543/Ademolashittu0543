@@ -23,8 +23,11 @@
 
 > 📂 My Projects
  
-💡 **[House Price Prediction](https://github.com/Ademolashittu0543/House_price_-prediction)** - Predicts house prices using regression models.  
+💡 **[House Price Prediction](https://github.com/Ademolashittu0543/House_price_-prediction)** - Predicts house prices using regression models.
+
 💡 **[Breast_Cancer_prediction](https://github.com/Ademolashittu0543/Breast_Cancer_prediction)** - Breast cancer prediction based on patient diagnostic data.
+
+💡 **[Obesity_prediction](https://github.com/Ademolashittu0543/Obesity-_Prediction)** - This project presents a supervised machine learning solution for predicting obesity levels in individuals based on their demographic data, lifestyle behaviors, and physiological measurements.
 
 > 📌 More projects coming soon!
 
