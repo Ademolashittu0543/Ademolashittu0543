@@ -30,6 +30,7 @@
 💡 **[Obesity_prediction](https://github.com/Ademolashittu0543/Obesity-_Prediction)** - This project presents a supervised machine learning solution for predicting obesity levels in individuals based on their demographic data, lifestyle behaviors, and physiological measurements.
 
 💡 **[Employee-Turnover-Prediction](https://github.com/Ademolashittu0543/Employee-Turnover-Prediction)** - This project presents a supervised machine learning solution for predicting potential employee exits, enabling timely interventions and better retention strategies.
+
 💡 **[Streaming-ML-Project](https://github.com/Ademolashittu0543/Streaming-ML-Project)** - This project explores **supervised and unsupervised machine learning techniques** to analyze and predict customer behavior on a streaming service.
 
 > 📌 More projects coming soon!
