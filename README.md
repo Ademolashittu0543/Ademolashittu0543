@@ -33,6 +33,8 @@
 
 💡 **[Streaming-ML-Project](https://github.com/Ademolashittu0543/Streaming-ML-Project)** - This project explores **supervised and unsupervised machine learning techniques** to analyze and predict customer behavior on a streaming service.
 
+💡 **[Spam Detection System](https://github.com/Ademolashittu0543/Streaming-ML-Project)** -This project implements a spam detection system using various machine learning models to classify emails as spam or not spam.
+
 > 📌 More projects coming soon!
 
 ## 🌐 Socials
