@@ -23,17 +23,20 @@
 
 > 📂 My Projects
  
-💡 **[House Price Prediction](https://github.com/Ademolashittu0543/House_price_-prediction)** - Predicts house prices using regression models.
+💡 **[House Price Prediction](https://github.com/Ademolashittu0543/House_price_-prediction)** - Predicts house prices using regression models. You can try the deployed version of this spam detection system here.>>[House Price Prediction App ](https://houseprice-prediction-01.streamlit.app)
+
 
 💡 **[Breast_Cancer_prediction](https://github.com/Ademolashittu0543/Breast_Cancer_prediction)** - Breast cancer prediction based on patient diagnostic data.
 
 💡 **[Obesity_prediction](https://github.com/Ademolashittu0543/Obesity-_Prediction)** - This project presents a supervised machine learning solution for predicting obesity levels in individuals based on their demographic data, lifestyle behaviors, and physiological measurements.
 
-💡 **[Employee-Turnover-Prediction](https://github.com/Ademolashittu0543/Employee-Turnover-Prediction)** - This project presents a supervised machine learning solution for predicting potential employee exits, enabling timely interventions and better retention strategies.
+💡 **[Employee-Turnover-Prediction](https://github.com/Ademolashittu0543/Employee-Turnover-Prediction)** - This project presents a supervised machine learning solution for predicting potential employee exits, enabling timely interventions and better retention strategies. You can try the deployed version of this spam detection system here.>>[Eployee Turnover Prediction App](https://eemployee-tturnover-pprediction-y.streamlit.app)
+
 
 💡 **[Streaming-ML-Project](https://github.com/Ademolashittu0543/Streaming-ML-Project)** - This project explores **supervised and unsupervised machine learning techniques** to analyze and predict customer behavior on a streaming service.
 
-💡 **[Spam Detection System](https://github.com/Ademolashittu0543/Spam-Detection-System)** -This project implements a spam detection system using various machine learning models to classify emails as spam or not spam.
+💡 **[Spam Detection System](https://github.com/Ademolashittu0543/Spam-Detection-System)** -This project implements a spam detection system using various machine learning models to classify emails as spam or not spam. You can try the deployed version of this spam detection system here.>>[Spam Detection System App](https://spam-detection-system-vlvakga8tabxfyc3s7kufo.streamlit.app)
+
 
 > 📌 More projects coming soon!
 
