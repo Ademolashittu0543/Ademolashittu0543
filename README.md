@@ -22,9 +22,10 @@
 ✅ Sharing weekly progress on LinkedIn
 
 > 📂 My Projects
+
+💡 **[Medical Insurance Cost Predictor](https://github.com/Ademolashittu0543/Medical_insurance_cost_prediction)** - This project implements a medical insurance cost prediction system using a Random Forest Regressor to estimate insurance charges based on patient details like age, sex, BMI, smoking status, region, and number of children.>>[Medical Insurance Cost Predictor ](https://medicalinsurancecostprediction-ev89nczdpen4ioxctefohn.streamlit.app/)
  
 💡 **[House Price Prediction](https://github.com/Ademolashittu0543/House_price_-prediction)** - Predicts house prices using regression models. You can try the deployed version of this spam detection system here.>>[House Price Prediction App ](https://houseprice-prediction-01.streamlit.app)
-
 
 💡 **[Breast_Cancer_prediction](https://github.com/Ademolashittu0543/Breast_Cancer_prediction)** - Breast cancer prediction based on patient diagnostic data.
 
