@@ -38,6 +38,7 @@
 
 💡 **[Spam Detection System](https://github.com/Ademolashittu0543/Spam-Detection-System)** -This project implements a spam detection system using various machine learning models to classify emails as spam or not spam. You can try the deployed version of this spam detection system here.>>[Spam Detection System App](https://spam-detection-system-vlvakga8tabxfyc3s7kufo.streamlit.app)
 
+💡 **[Pizza Delivery EDA Analysis](https://github.com/Ademolashittu0543/Exploratory_Data_Analysis)** -This repository contains an Exploratory Data Analysis (EDA) performed on a pizza delivery dataset. The analysis aims to uncover insights into delivery performance, focusing on factors such as delivery duration, distance, traffic impact, and peak hours. The notebook EDA.ipynb includes data exploration, statistical tests, and actionable recommendations.
 
 > 📌 More projects coming soon!
 
