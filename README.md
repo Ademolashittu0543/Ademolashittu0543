@@ -40,6 +40,8 @@
 
 💡 **[Pizza Delivery EDA Analysis](https://github.com/Ademolashittu0543/Exploratory_Data_Analysis)** -This repository contains an Exploratory Data Analysis (EDA) performed on a pizza delivery dataset. The analysis aims to uncover insights into delivery performance, focusing on factors such as delivery duration, distance, traffic impact, and peak hours. The notebook EDA.ipynb includes data exploration, statistical tests, and actionable recommendations.
 
+💡 **[Loan Default  Analysis](https://github.com/Ademolashittu0543/Exploratory_Data_Analysis)** -A complete end-to-end machine learning pipeline to predict the likelihood of loan default using real-world tabular data.
+
 > 📌 More projects coming soon!
 
 ## 🌐 Socials
