@@ -17,9 +17,12 @@
 
 ✅ Learning ML,DL and AI
 
-✅ Building ML projects & deploying models
+✅ Building ML and DL projects & deploying models
 
-✅ Sharing weekly progress on LinkedIn
+✅ Sharing weekly progress on LinkedIn 
+
+
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/shittu-ademola-842126291/)
 
 > 📂 My Projects
 
