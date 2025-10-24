@@ -46,8 +46,9 @@
 
 ---
 
-### 🧠 Deep Learning Projects
-Ongoing....................
+### 🧠 Deep Learning Projects 
+
+💡 **[Cats VS Dog Image Recognition](https://github.com/Ademolashittu0543/Cat-and-Dog-Image-Classification-VGG16-)** - A complete end-to-end deep learning project leveraging transfer learning with VGG16 to classify images of cats and dogs with high accuracy 
 
 
 📌 More projects coming soon!
