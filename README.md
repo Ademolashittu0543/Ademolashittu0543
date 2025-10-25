@@ -50,7 +50,7 @@
 
 💡 **[Cats VS Dog Image Recognition](https://github.com/Ademolashittu0543/Cat-and-Dog-Image-Classification-VGG16-)** - A complete end-to-end deep learning project leveraging transfer learning with VGG16 to classify images of cats and dogs with high accuracy 
 
-💡 **[Kidney Defect Detector](https://github.com/Ademolashittu0543/Kidney_Defect_Detector)** - A deep learning solution for automated classification of kidney abnormalities from CT scan images using transfer learning and advanced neural networks. The Deployed App ([ https://kidneydefectdetector-nwfae8vpevbpcd5qfehyaw.streamlit.app/ ])
+💡 **[Kidney Defect Detector](https://github.com/Ademolashittu0543/Kidney_Defect_Detector)** - A deep learning solution for automated classification of kidney abnormalities from CT scan images using transfer learning and advanced neural networks. The Deployed App ([ https://kidneydefectdetector-nwfae8vpevbpcd5qfehyaw.streamlit.app ])
 
 📌 More projects coming soon!
 
